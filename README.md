@@ -60,6 +60,11 @@
 - 💼 LinkedIn: (https://www.linkedin.com/in/rudraksh-kavishwar-0872032b5/)
 - 📧 Email: (rudrakshkavishwar@gmail.com)
 
+ ## 📄 Resume
+
+📥 Download my resume here:  
+👉 [Click to View Resume](./Rudraksh_Resume.pdf)
+
 ---
 
 ⭐ *If you like my work, consider giving a star to my repositories!*
